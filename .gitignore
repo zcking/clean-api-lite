@@ -1,0 +1,7 @@
+*.duckdb*
+*.tar
+*.gz
+*.zip
+.vscode
+.idea
+*.swp
